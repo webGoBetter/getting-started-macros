@@ -1,7 +1,7 @@
 ifndef::initial[:initial: /initial]
 ifndef::complete[:complete: /complete]
 
-How to complete this guide
+如何完成此指南
 --------------------------
 Like most Spring link:/guides[Getting Started guides], you can start from scratch and complete each step, or you can bypass basic setup steps that are already familiar to you. Either way, you end up with working code.
 
