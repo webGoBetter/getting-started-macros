@@ -1,2 +1,2 @@
-=== Create a Gradle build file
-Below is the https://github.com/spring-guides/{project_id}/blob/master/initial/build.gradle[initial Gradle build file].
+=== 创建一个Gradle构建文件
+下面是 https://github.com/webGoBetter/{project_id}/blob/master/initial/build.gradle[初始Gradle构建文件].
