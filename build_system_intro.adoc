@@ -1,4 +1,4 @@
 
 :linkattrs:
 
-首先设置基本的构建脚本。 你使用spring构建应用是，你可以使用任何构建系统，但是你如果需要和 http://gradle.org[Gradle] 或者 和https://maven.apache.org[Maven] 一起工作时，你需要的代码已经在这里了。如果你都不熟悉，参考 link:/guides/gs/gradle[用Gradle构建java项目] or link:/guides/gs/maven[用Maven构建java项目]。
+首先设置基本的构建脚本。 你使用spring构建应用是，你可以使用任何构建系统，但是你如果需要和 http://gradle.org[Gradle] 或者和 https://maven.apache.org[Maven] 一起工作时，你需要的代码已经在这里了。如果你都不熟悉，参考 link:/guides/gs/gradle[用Gradle构建java项目] or link:/guides/gs/maven[用Maven构建java项目]。
