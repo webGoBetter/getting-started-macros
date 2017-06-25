@@ -1,6 +1,6 @@
 === Create the directory structure
 
-In a project directory of your choosing, create the following subdirectory structure; for example, with `mkdir -p src/main/java/hello` on *nix systems:
+在你选择的项目目录，创建以下目录结构；例如， 在*nix系统中使用 `mkdir -p src/main/java/hello`：
 
     └── src
         └── main
