@@ -11,6 +11,6 @@ ifndef::complete[:complete: /complete]
  - https://github.com/webGoBetter/{project_id}/archive/master.zip[下载] 然后为这个指引解压源代码库, 或者用 link:/understanding/Git[Git] 克隆它:
 `git clone https://github.com/webGoBetter/{project_id}.git`
  - cd into `{project_id}{initial}`
- - Jump ahead to <<initial>>.
+ - 跳到 <<initial>>.
 
 **当你完成**, 您可以根据 `{project_id}{complete}` 中的代码检查结果。
