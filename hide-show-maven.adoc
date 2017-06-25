@@ -13,7 +13,7 @@ include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/
 `pom.xml`
 [source,xml]
 ----
-include::https://raw.githubusercontent.com/spring-guides/{project_id}/master/initial/pom.xml[]
+include::https://raw.githubusercontent.com/webGoBetter/{project_id}/master/initial/pom.xml[]
 ----
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/spring-boot-maven-plugin.adoc[]
