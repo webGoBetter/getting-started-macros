@@ -2,10 +2,10 @@
 
 ifndef::java_version[:java_version: 1.6]
 
-* About 15 minutes
-* A favorite text editor or IDE
-* http://www.oracle.com/technetwork/java/javase/downloads/index.html[JDK {java_version}] or later
-* http://www.gradle.org/downloads[Gradle 2.3+] or http://maven.apache.org/download.cgi[Maven 3.0+]
-* You can also import the code straight into your IDE:
+* 大概15分钟
+* 一个喜爱的文本编辑器或IDE
+* http://www.oracle.com/technetwork/java/javase/downloads/index.html[JDK {java_version}] 或者更新
+* http://www.gradle.org/downloads[Gradle 2.3+] 或者 http://maven.apache.org/download.cgi[Maven 3.0+]
+* 您也可以直接将代码导入到IDE中:
 ** link:/guides/gs/sts[Spring Tool Suite (STS)]
 ** link:/guides/gs/intellij-idea/[IntelliJ IDEA]
