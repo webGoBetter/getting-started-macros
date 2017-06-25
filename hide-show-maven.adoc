@@ -1,10 +1,10 @@
 [[reveal-maven]]
 [.reveal-maven]
-== Build with Maven
+== 使用Maven构建
 
 [[use-maven]]
 [.use-maven]
-== Build with Maven
+== 使用Maven构建
 
 include::https://raw.githubusercontent.com/webGoBetter/getting-started-macros/master/build_system_intro_maven.adoc[]
 
