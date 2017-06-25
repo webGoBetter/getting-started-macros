@@ -1,8 +1,8 @@
-`@SpringBootApplication` is a convenience annotation that adds all of the following:
+`@SpringBootApplication` 是一个添加了下面所有功能的注解:
     
-- `@Configuration` tags the class as a source of bean definitions for the application context.
-- `@EnableAutoConfiguration` tells Spring Boot to start adding beans based on classpath settings, other beans, and various property settings.
-- Normally you would add `@EnableWebMvc` for a Spring MVC app, but Spring Boot adds it automatically when it sees **spring-webmvc** on the classpath. This flags the application as a web application and activates key behaviors such as setting up a `DispatcherServlet`.
-- `@ComponentScan` tells Spring to look for other components, configurations, and services in the `hello` package, allowing it to find the controllers.
+- `@Configuration` 将类标记为应用程序上下文bean定义的源。
+- `@EnableAutoConfiguration` 告诉spring boot开始添加bean,基于类路径的设置，其他bean，及各种属性设置。
+- 通常你为Spring MVC应用程序添加 `@EnableWebMvc` ，但是当Spring Boot在类路径看到 **spring-webmvc** 的 时候会自动添加它。这表示这个应用作为Web应用并且会激活关键行为如建立` DispatcherServlet `。
+- `@ComponentScan` 告诉spring去查找在'hello'包中的其他组件，配置和服务，允许去找控制器。
 
-The `main()` method uses Spring Boot's `SpringApplication.run()` method to launch an application. Did you notice that there wasn't a single line of XML? No **web.xml** file either. This web application is 100% pure Java and you didn't have to deal with configuring any plumbing or infrastructure.
+‘main()’方法使用Spring Boot的 `SpringApplication.run()`方法启动应用。你注意到并没有一行XML吗？也没有 **web.xml** 文件。这是100%的纯java的web应用程序，您不需要处理任何沟通或设施配置。
