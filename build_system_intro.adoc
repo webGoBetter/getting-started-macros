@@ -1,4 +1,4 @@
 
 :linkattrs:
 
-First you set up a basic build script. You can use any build system you like when building apps with Spring, but the code you need to work with http://gradle.org[Gradle] and https://maven.apache.org[Maven] is included here. If you're not familiar with either, refer to link:/guides/gs/gradle[Building Java Projects with Gradle] or link:/guides/gs/maven[Building Java Projects with Maven].
+首先设置基本的构建脚本。 你使用spring构建应用是，你可以使用任何构建系统，但是你如果需要和 http://gradle.org[Gradle] 或者 和https://maven.apache.org[Maven] 一起工作时，你需要的代码已经在这里了。如果你都不熟悉，参考 link:/guides/gs/gradle[用Gradle构建java项目] or link:/guides/gs/maven[用Maven构建java项目]。
