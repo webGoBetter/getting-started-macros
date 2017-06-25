@@ -1,7 +1,7 @@
 ifndef::initial[:initial: /initial]
 ifndef::complete[:complete: /complete]
 
-How to complete this guide
+如何完成此指南
 --------------------------
 和大多数 link:/guides[入门指引] 一样, 你可以从头开始完成每一步，或者你可以绕过你已经熟悉的基本设置步骤。无论哪种方式，最终都有工作代码。
 
