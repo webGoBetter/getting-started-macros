@@ -1,17 +1,17 @@
 ifndef::initial[:initial: /initial]
 ifndef::complete[:complete: /complete]
 
-How to complete this guide
+如何完成此指南
 --------------------------
-Like most Spring link:/guides[Getting Started guides], you can start from scratch and complete each step, or you can bypass basic setup steps that are already familiar to you. Either way, you end up with working code.
+和大多数 link:/guides[入门指引]一样, 你可以从头开始完成每一步，或者你可以绕过你已经熟悉的基本设置步骤。无论哪种方式，最终都有工作代码。y
 
-To **start from scratch**, move on to <<scratch>>.
+如果要 **从零开始**, 移步到 <<scratch>>.
 
-To **skip the basics**, do the following:
+如果要 **跳过基础知识**, 像以下几点这样做:
 
- - https://github.com/spring-guides/{project_id}/archive/master.zip[Download] and unzip the source repository for this guide, or clone it using link:/understanding/Git[Git]:
+ - https://github.com/spring-guides/{project_id}/archive/master.zip[下载] 然后为这个指引解压源代码库, 或者用 link:/understanding/Git[Git]克隆它:
 `git clone https://github.com/spring-guides/{project_id}.git`
  - cd into `{project_id}{initial}`
  - Jump ahead to <<initial>>.
 
-**When you're finished**, you can check your results against the code in `{project_id}{complete}`.
+**当你完成**, 您可以根据 `{project_id}{complete}` 中的代码检查结果。
