@@ -3,14 +3,14 @@ ifndef::complete[:complete: /complete]
 
 如何完成此指南
 --------------------------
-和大多数 link:/guides[入门指引]一样, 你可以从头开始完成每一步，或者你可以绕过你已经熟悉的基本设置步骤。无论哪种方式，最终都有工作代码。y
+和大多数 link:/guides[入门指引] 一样, 你可以从头开始完成每一步，或者你可以绕过你已经熟悉的基本设置步骤。无论哪种方式，最终都有工作代码。y
 
 如果要 **从零开始**, 移步到 <<scratch>>.
 
 如果要 **跳过基础知识**, 像以下几点这样做:
 
- - https://github.com/spring-guides/{project_id}/archive/master.zip[下载] 然后为这个指引解压源代码库, 或者用 link:/understanding/Git[Git]克隆它:
-`git clone https://github.com/spring-guides/{project_id}.git`
+ - https://github.com/webGoBetter/{project_id}/archive/master.zip[下载] 然后为这个指引解压源代码库, 或者用 link:/understanding/Git[Git] 克隆它:
+`git clone https://github.com/webGoBetter/{project_id}.git`
  - cd into `{project_id}{initial}`
  - Jump ahead to <<initial>>.
 
