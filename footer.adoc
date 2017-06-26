@@ -1,5 +1,5 @@
 
-Want to write a new guide or contribute to an existing one? Check out our https://github.com/spring-guides/getting-started-guides/wiki[contribution guidelines].
+想写一个新的指南或贡献一个现有的？看看我们的 https://github.com/webGoBetter/getting-started-guides/wiki[贡献指南]。
 
-IMPORTANT: All guides are released with an ASLv2 license for the code, and an http://creativecommons.org/licenses/by-nd/3.0/[Attribution, NoDerivatives creative commons license] for the writing.
+IMPORTANT: 所有指引的代码都遵循 ASLv2 license , 所有的文章都遵循  http://creativecommons.org/licenses/by-nd/3.0/[Attribution, NoDerivatives creative commons license] 。
 
