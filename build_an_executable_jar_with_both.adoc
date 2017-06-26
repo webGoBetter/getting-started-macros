@@ -1,20 +1,19 @@
 :linkattrs:
 
-You can run the application from the command line with Gradle or Maven. Or you can build a single executable JAR file that contains all the necessary dependencies, classes, and resources, and run that. This makes it easy to ship, version, and deploy the service as an application throughout the development lifecycle, across different environments, and so forth.
+你可以从Gradle或Maven命令行中的应用。或者您可以构建一个包含所有必需依赖项、类和资源的可执行JAR文件，并运行。这使得在跨不同的环境的整个开发生命周期中，将服务作为一个应用程序交付、迭代和部署变得容易，等等。
 
-If you are using Gradle, you can run the application using `./gradlew bootRun`.  Or you can build the JAR file using `./gradlew build`. Then you can run the JAR file:
+如果你使用的是Gradle，你可以使用 `./gradlew bootRun` 来运行应用程序。或者你可以使用 `./gradlew build` 来构建JAR文件。然后就可以运行JAR文件了：
 
 [subs="attributes", role="has-copy-button"]
 ....
 java -jar build/libs/{project_id}-0.1.0.jar
 ....
 
-If you are using Maven, you can run the application using `./mvnw spring-boot:run`. Or you can build the JAR file with `./mvnw clean package`. Then you can run the JAR file:
+如果你使用的是Gradle，你可以使用 `./mvnw spring-boot:run` 来运行应用程序。或者你可以使用 `./mvnw clean package` 来构建JAR文件。然后就可以运行JAR文件了：
 
 [subs="attributes", role="has-copy-button"]
 ....
 java -jar target/{project_id}-0.1.0.jar
 ....
 
-NOTE: The procedure above will create a runnable JAR. You can also opt to link:/guides/gs/convert-jar-to-war/[build a classic WAR file] instead.
-
+NOTE: 上述过程将创建一个可执行JAR。您也可以选择 link:/guides/gs/convert-jar-to-war/[构建经典的WAR文件]。
