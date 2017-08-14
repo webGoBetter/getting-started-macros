@@ -1,6 +1,6 @@
-== Create the directory structure
+== 创建目录结构
 
-In a project directory of your choosing, create the following subdirectory structure; for example, with the following command on Mac or Linux:
+在您选择的项目目录中，创建以下子目录结构；例如，在Mac或Linux上使用以下命令:
 
 ----
 mkdir -p src/main/java/org/hello
