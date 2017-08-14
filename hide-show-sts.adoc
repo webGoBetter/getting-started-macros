@@ -6,5 +6,5 @@
 [.use-sts]
 == 使用IDE构建
 
-* Read how to import this guide straight into link:/guides/gs/sts/[Spring Tool Suite].
-* Read how to work with this guide in link:/guides/gs/intellij-idea[IntelliJ IDEA].
+* 了解如何直接导入此指南。:/guides/gs/sts/[Spring Tool Suite].
+* 阅读如何在链接中使用此指南:/guides/gs/intellij-idea[IntelliJ IDEA].
