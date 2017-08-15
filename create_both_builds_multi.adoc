@@ -1,2 +1,2 @@
-=== Create the Gradle build files
-Below is the https://github.com/spring-guides/{project_id}/blob/master/initial/build.gradle[initial Gradle build file] and the https://github.com/spring-guides/{project_id}/blob/master/initial/settings.gradle[initial Gradle settings file]. But you can also use Maven. The pom.xml file is included https://github.com/spring-guides/{project_id}/blob/master/initial/pom.xml[right here]. If you are using link:/guides/gs/sts[Spring Tool Suite (STS)], you can import the guide directly.
+=== 创建Gradle构建文件
+下面是 https://github.com/webGoBetter/{project_id}/blob/master/initial/build.gradle[初始化Gradle构建文件] 和 https://github.com/spring-guides/{project_id}/blob/master/initial/settings.gradle[初始化Gradle设置文件]. 但是你也能使用Maven.  pom.xml 文件在 https://github.com/webGoBetter/{project_id}/blob/master/initial/pom.xml[这里]. 如果你使用 link:/guides/gs/sts[Spring Tool Suite (STS)], 则可以直接导入指南.
