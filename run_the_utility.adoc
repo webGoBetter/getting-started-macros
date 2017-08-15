@@ -5,7 +5,7 @@
 ./gradlew clean build && java -jar build/libs/{project_id}-0.1.0.jar
 ----
 
-或者如果你使用Maven link:/guides/gs/maven[Maven], 像这样运行:
+或者如果你使用 link:/guides/gs/maven[Maven], 像这样运行:
 
 [subs="attributes"]
 ----
