@@ -1,4 +1,4 @@
-=== Create the directory structure
+=== 创建目录结构
 
 在你选择的项目目录，创建以下目录结构；例如， 在*nix系统中使用 `mkdir -p src/main/java/hello`：
 
