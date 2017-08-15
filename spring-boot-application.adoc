@@ -5,4 +5,4 @@
 - 通常你为Spring MVC应用程序添加 `@EnableWebMvc` ，但是当Spring Boot在类路径看到 **spring-webmvc** 的 时候会自动添加它。这表示这个应用作为Web应用并且会激活关键行为如建立` DispatcherServlet `。
 - `@ComponentScan` 告诉spring去查找在'hello'包中的其他组件，配置和服务，允许去找控制器。
 
-‘main()’方法使用Spring Boot的 `SpringApplication.run()`方法启动应用。你注意到并没有一行XML吗？也没有 **web.xml** 文件。这是100%的纯java的web应用程序，您不需要处理任何沟通或设施配置。
+`main()` 方法使用Spring Boot的 `SpringApplication.run()`方法启动应用。你注意到并没有一行XML吗？也没有 **web.xml** 文件。这是100%的纯java的web应用程序，您不需要处理任何沟通或设施配置。
