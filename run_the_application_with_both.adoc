@@ -1,20 +1,20 @@
 ifndef::module[:module: service]
 
-== Run the {module}
-If you are using Gradle, you can run your {module} at the command line this way:
+== 运行 {module}
+如果你使用的是Gradle，你可以像下面这样在命令行方式运行你的 {module} ：
 
 [subs="attributes", role="has-copy-button"]
 ....
 ./gradlew clean build && java -jar build/libs/{project_id}-0.1.0.jar
 ....
 
-NOTE: If you are using Maven, you can run your {module} by typing +mvn clean package && java -jar target/{project_id}-0.1.0.jar+.
+NOTE: 如果你使用Maven, 你可以输入  +mvn clean package && java -jar target/{project_id}-0.1.0.jar+ 来运行你的 {module} .
 
-You can alternatively run the app directly from Gradle like this:
+你可以选择直接从Gradle这样运行的应用程序:
 
 [subs="attributes", role="has-copy-button"]
 ....
 ./gradlew bootRun
 ....
 
-NOTE: With mvn, you can run `mvn spring-boot:run`.
+NOTE: 使用MVN，可以运行 `mvn spring-boot:run` .
