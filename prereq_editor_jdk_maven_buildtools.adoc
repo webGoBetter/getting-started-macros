@@ -2,8 +2,8 @@
 
 ifndef::java_version[:java_version: 1.6]
 
- - About 15 minutes
- - A favorite text editor or IDE
- - http://www.oracle.com/technetwork/java/javase/downloads/index.html[JDK {java_version}] or later
+ - 大概15分钟
+ - 一个喜欢的文本编辑器或者IDE
+ - http://www.oracle.com/technetwork/java/javase/downloads/index.html[JDK {java_version}] 或者更新版本
  - http://maven.apache.org/download.cgi[Maven 3.0+]
- - You can also import the code from this guide as well as view the web page directly into link:/guides/gs/sts[Spring Tool Suite (STS)] and work your way through it from there.
+ - 您还可以从该指南导入代码，并直接将Web页面浏览的链接粘贴到 link:/guides/gs/sts[Spring Tool Suite (STS)]中，并从中找到您的工作方式。
