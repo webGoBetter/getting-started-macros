@@ -1,22 +1,22 @@
-To run the utility, simply run it from the command line using link:/guides/gs/gradle[Gradle] like this:
+想要运行这个功能，只需要像下面这样简单的在命令行中运行命令 link:/guides/gs/gradle[Gradle] :
 
 [subs="attributes"]
 ----
 ./gradlew clean build && java -jar build/libs/{project_id}-0.1.0.jar
 ----
 
-Or if you are using link:/guides/gs/maven[Maven], run it like this:
+或者如果你使用Maven link:/guides/gs/maven[Maven], 像这样运行:
 
 [subs="attributes"]
 ----
 mvn package && java -jar target/{project_id}-0.1.0.jar
 ----
 
-You can alternatively run the app directly from Gradle like this:
+你还可以选择向这样直接在Gradle中运行应用:
 
 [subs="attributes", role="has-copy-button"]
 ....
 ./gradlew bootRun
 ....
 
-NOTE: With mvn, you can run `mvn spring-boot:run`.
+NOTE: 使用Maven, 你可以运行 `mvn spring-boot:run`.
