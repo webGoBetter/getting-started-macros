@@ -2,8 +2,8 @@
 
 ifndef::module[:module: service]
 
-== Run the {module}
-Run your {module} at the command line:
+== 运行 {module}
+在命令行中运行你的 {module} :
 
 [subs="attributes", role="has-copy-button"]
 ....
