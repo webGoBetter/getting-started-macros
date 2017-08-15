@@ -1,4 +1,4 @@
 
 :linkattrs:
 
-首先设置基本的构建脚本。你可以使用任何你喜欢的应用程序构建系统创建Spring应用，但这里有你需要使用Maven的代码。如果你不熟悉Maven，请参考 /guides/gs/maven[Building Java Projects with Maven]。
+首先设置基本的构建脚本。你可以使用任何你喜欢的应用程序构建系统创建Spring应用，但这里有你需要使用Maven的代码。如果你不熟悉Maven，请参考 link:/guides/gs/maven[使用Maven构建Java项目]。
