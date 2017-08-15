@@ -1,6 +1,6 @@
 https://github.com/spring-projects/spring-boot/tree/master/spring-boot-tools/spring-boot-gradle-plugin[Spring Boot gradle plugin] 提供了很多方便的功能:
 
 - 它收集类路径上的所有jars,构造成一个独立的，可运行的jar，这使得它执行和传播服务更方便。
-- 它搜索` public static void main() `方法标记为一个可运行的类。
+- 它搜索 `public static void main()` 方法标记为一个可运行的类。
 - 它提供了内置的依赖解析，用于设置和 https://github.com/spring-projects/spring-boot/blob/master/spring-boot-dependencies/pom.xml[Spring Boot dependencies] 匹配的版本号。您可以重写您希望的任何版本，但它将默认为引导选择的一组版本。
 
